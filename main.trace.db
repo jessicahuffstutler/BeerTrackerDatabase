@@ -1,0 +1,12 @@
+2015-11-02 14:21:46 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLException: Syntax error in SQL statement "DELETE FROM BEERS WHERE ROWNUM = ?)[*] "; SQL statement:
+DELETE FROM beers WHERE ROWNUM = ?) [42000-190]
+2015-11-02 14:21:50 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLException: Syntax error in SQL statement "DELETE FROM BEERS WHERE ROWNUM = ?)[*] "; SQL statement:
+DELETE FROM beers WHERE ROWNUM = ?) [42000-190]
+2015-11-02 14:21:52 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLException: Syntax error in SQL statement "DELETE FROM BEERS WHERE ROWNUM = ?)[*] "; SQL statement:
+DELETE FROM beers WHERE ROWNUM = ?) [42000-190]
+2015-11-02 14:21:54 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLException: Syntax error in SQL statement "DELETE FROM BEERS WHERE ROWNUM = ?)[*] "; SQL statement:
+DELETE FROM beers WHERE ROWNUM = ?) [42000-190]
